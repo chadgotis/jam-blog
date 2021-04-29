@@ -10,6 +10,8 @@
   "author": "Chadric Gotis",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1"
+    "@11ty/eleventy": "^0.12.1",
+    "axios": "^0.21.1",
+    "netlify-cms-app": "^2.14.46"
   }
 }
